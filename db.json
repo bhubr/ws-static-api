@@ -1,0 +1,24 @@
+{
+  "places":[
+    {
+      "id":1,
+      "place":"Mexico",
+      "image":"https://loremflickr.com/cache/resized/65535_49090657517_102ede3b6e_320_240_g.jpg"
+    },
+    {
+      "id":2,
+      "place":"Lima",
+      "image":"https://loremflickr.com/cache/resized/7906_32008115937_45e07e622d_320_240_g.jpg"
+    },
+    {
+      "id":3,
+      "place":"Santiago",
+      "image":"https://loremflickr.com/cache/resized/720_21878237962_ef76c41591_320_240_g.jpg"
+    },
+    {
+      "id":4,
+      "place":"Macchu Picchu",
+      "image":"https://loremflickr.com/cache/resized/7549_15778293199_783ce8c97e_320_240_g.jpg"
+    }
+  ]
+}
